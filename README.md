@@ -157,7 +157,7 @@ Main controller class responsible for:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Hotel-Management-System.git
+git clone https://github.com/patelaarnav882-collab/Hotel-Management-System-CPP.git
 ```
 
 ### Open the project
